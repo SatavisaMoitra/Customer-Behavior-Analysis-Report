@@ -97,7 +97,7 @@ Connect Power BI to PostgreSQL and refresh the dashboard visuals.
 # 📊 Dashboard Preview
 
 The Power BI dashboard provides a comprehensive view of customer behavior and helps identify key business insights efficiently.
-
+![Customer Behaviour Dashboard](https://github.com/PinakiRanjanSahu/Customer-Behvaiour-Analysis/blob/main/customer%20behaviour%20dashboard.png)
 # ⭐ Feedback
 
 If you find this project useful, feel free to ⭐ the repository and share your feedback.
